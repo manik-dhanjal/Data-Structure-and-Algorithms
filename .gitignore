@@ -1,2 +1,11 @@
 *.test.cpp
 test.cpp
+
+*.test.js
+test.js
+
+*.test.java
+*.test.class
+
+test.class
+test.java
